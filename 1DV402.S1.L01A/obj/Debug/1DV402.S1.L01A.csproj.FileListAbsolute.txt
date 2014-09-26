@@ -1,0 +1,6 @@
+C:\Users\Becu\Documents\GitHub\1dv402-al223cp-1-1-vaxelpengar\1DV402.S1.L01A\bin\Debug\1DV402.S1.L01A.exe.config
+C:\Users\Becu\Documents\GitHub\1dv402-al223cp-1-1-vaxelpengar\1DV402.S1.L01A\bin\Debug\1DV402.S1.L01A.exe
+C:\Users\Becu\Documents\GitHub\1dv402-al223cp-1-1-vaxelpengar\1DV402.S1.L01A\bin\Debug\1DV402.S1.L01A.pdb
+C:\Users\Becu\Documents\GitHub\1dv402-al223cp-1-1-vaxelpengar\1DV402.S1.L01A\obj\Debug\1DV402.S1.L01A.csprojResolveAssemblyReference.cache
+C:\Users\Becu\Documents\GitHub\1dv402-al223cp-1-1-vaxelpengar\1DV402.S1.L01A\obj\Debug\1DV402.S1.L01A.exe
+C:\Users\Becu\Documents\GitHub\1dv402-al223cp-1-1-vaxelpengar\1DV402.S1.L01A\obj\Debug\1DV402.S1.L01A.pdb
